@@ -1,3 +1,3 @@
 # cssSpinners
 
-<img src="Spinner.pgn width="80px" />
+<img src="Spinner.png" width="80px" />
